@@ -1,7 +1,7 @@
 # taxi-booking-system
 
 
-```markdown
+
 # 🚖 Taxi Booking System
 
 ## 📌 Overview
@@ -125,12 +125,8 @@ If you'd like to contribute:
 4. **Push changes** (`git push origin feature-branch`)
 5. **Submit a Pull Request (PR)**
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
 ---
 
-🚀 **Now, copy and paste this into your project!** 🚀
-```  
 
-This **README.md** file is well-structured and includes all necessary details. You can **directly copy and paste** it into your project folder. Let me know if you need any more changes! 🚀🔥
