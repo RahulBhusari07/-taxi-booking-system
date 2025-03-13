@@ -1,4 +1,3 @@
-# taxi-booking-system
 
 
 
@@ -114,8 +113,6 @@ taxi-booking-system/
 ## 🎯 Project Documentation
 [📄 Taxi Booking System Documentation]( https://docs.google.com/document/d/e/2PACX-1vS3Us_KJs_nyNqz-yf9tJkTUmxIGW5Y9PaoUQ-sP6sdCqDxAwniYElgKT3qi4-gPCvaVCESfqhPpAWZ/pub)
 
-## 🌐 Live Demo (If Deployed)
-[🔗 Live Taxi Booking System]
 
 ## 💡 Contributing
 If you'd like to contribute:
